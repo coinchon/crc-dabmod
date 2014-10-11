@@ -1,0 +1,5 @@
+crc_dabmod-porting.o: porting.c porting.h ../config.h
+
+porting.h:
+
+../config.h:
